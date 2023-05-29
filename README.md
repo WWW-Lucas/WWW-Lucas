@@ -1,8 +1,8 @@
-### Olá! Eu sou Lucas Melo da Silva, Programador Web Java em Desenvolvimento!
+### Howdy! My name is Lucas Melo da Silva, I'm a Full-Stack Java Developer!
 
 <div align="center">
   <a href="https://github.com/WWW-Lucas/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WWW-Lucas&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WWW-Lucas&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWW-Lucas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block" ><br>
