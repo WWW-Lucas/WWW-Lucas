@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Howdy! My name is Lucas Melo da Silva, I'm a Full-Stack Java Developer!
+  ### Howdy! My name is Lucas Melo da Silva, I'm a Full-Stack Web Developer Jr!
 <div/>
   
 <div align="center">
